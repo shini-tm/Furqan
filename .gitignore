@@ -1,0 +1,5 @@
+# Ignore JSON files
+*.json
+
+# Ignore files inside the /models folder
+/models/*
